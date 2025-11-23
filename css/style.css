@@ -16,11 +16,11 @@ html,
 body {
     width: 100%;
     overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
 }
 
 body {
     color: var(--text-main);
-    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 }
 
 
